@@ -1,0 +1,13 @@
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+
+# Build files
+target/
+*.jar
+*.war
+
+# Fișiere de configurare sensibile
+.env
+src/main/resources/application.properties
+src/main/resources/application.yml
